@@ -1,0 +1,4 @@
+streamlit==1.62.0
+anthropic==1.2.0
+python-dotenv==1.2.3
+requests==2.34.2
